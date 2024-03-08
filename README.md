@@ -8,7 +8,7 @@ creating an API that interacts with the database.
 • And chartJs for graphical representation of the user.   
 • Used ReactJs to enchance user experience and user functionalities
 
-#### Live URL - 
+#### Live URL - https://outlaymanager.netlify.app/
 
 
 ### Step 1: Clone the repo or download
